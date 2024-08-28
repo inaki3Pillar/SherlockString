@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockString.Tests\\SherlockString.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockExercise\\SherlockString.Tests\\SherlockString.Tests.csproj",
       "projectName": "SherlockString.Tests",
-      "projectPath": "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockString.Tests\\SherlockString.Tests.csproj",
+      "projectPath": "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockExercise\\SherlockString.Tests\\SherlockString.Tests.csproj",
       "packagesPath": "C:\\Users\\inaki.rodriguez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockString.Tests\\obj\\",
+      "outputPath": "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockExercise\\SherlockString.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\inaki.rodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1025,8 +1025,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockString\\SherlockString.csproj": {
-              "projectPath": "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockString\\SherlockString.csproj"
+            "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockExercise\\SherlockString\\SherlockString.csproj": {
+              "projectPath": "C:\\Users\\inaki.rodriguez\\source\\repos\\SherlockExercise\\SherlockString\\SherlockString.csproj"
             }
           }
         }
